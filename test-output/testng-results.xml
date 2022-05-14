@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-03T22:43:50 IST" name="Suite" finished-at="2022-05-03T22:44:29 IST" duration-ms="38680">
+    <groups>
+    </groups>
+    <test started-at="2022-05-03T22:43:50 IST" name="Test" finished-at="2022-05-03T22:44:29 IST" duration-ms="38680">
+      <class name="com.guru.testcases.HomePageTest">
+        <test-method is-config="true" signature="intializeExtentReport()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:43:50 IST" name="intializeExtentReport" finished-at="2022-05-03T22:43:50 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeExtentReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:43:51 IST" name="setup" finished-at="2022-05-03T22:43:59 IST" duration-ms="7929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitleTest(java.lang.reflect.Method)[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:43:59 IST" name="verifyTitleTest" finished-at="2022-05-03T22:43:59 IST" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru.testcases.HomePageTest.verifyTitleTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:43:59 IST" name="tearDown" finished-at="2022-05-03T22:43:59 IST" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:43:59 IST" name="setup" finished-at="2022-05-03T22:44:06 IST" duration-ms="6699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyManagerIDTest(java.lang.reflect.Method)[pri:1, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:06 IST" name="verifyManagerIDTest" finished-at="2022-05-03T22:44:06 IST" duration-ms="49" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru.testcases.HomePageTest.verifyManagerIDTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyManagerIDTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:06 IST" name="tearDown" finished-at="2022-05-03T22:44:06 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:06 IST" name="setup" finished-at="2022-05-03T22:44:13 IST" duration-ms="6608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNewCustomerTest(java.lang.reflect.Method)[pri:2, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:13 IST" name="verifyNewCustomerTest" finished-at="2022-05-03T22:44:13 IST" duration-ms="113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru.testcases.HomePageTest.verifyNewCustomerTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewCustomerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:13 IST" name="tearDown" finished-at="2022-05-03T22:44:14 IST" duration-ms="479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:14 IST" name="setup" finished-at="2022-05-03T22:44:20 IST" duration-ms="5928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyEditCustomerTest(java.lang.reflect.Method)[pri:3, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:20 IST" name="verifyEditCustomerTest" finished-at="2022-05-03T22:44:20 IST" duration-ms="222" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru.testcases.HomePageTest.verifyEditCustomerTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditCustomerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:20 IST" name="tearDown" finished-at="2022-05-03T22:44:20 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:20 IST" name="setup" finished-at="2022-05-03T22:44:28 IST" duration-ms="8040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDeleteCustomerTest(java.lang.reflect.Method)[pri:4, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:28 IST" name="verifyDeleteCustomerTest" finished-at="2022-05-03T22:44:28 IST" duration-ms="156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.guru.testcases.HomePageTest.verifyDeleteCustomerTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteCustomerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru.testcases.HomePageTest@55183b20]" started-at="2022-05-03T22:44:28 IST" name="tearDown" finished-at="2022-05-03T22:44:29 IST" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru.testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
